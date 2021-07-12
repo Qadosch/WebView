@@ -34,6 +34,8 @@ public class MainActivity extends AppCompatActivity {
     private boolean LoadingError = false;
     private boolean FirstStart = true;
 
+    private String test = "test"
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
